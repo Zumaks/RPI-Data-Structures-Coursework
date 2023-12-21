@@ -1,1 +1,1 @@
-# RPI-Data-Structures-Coursework
+This repository contains all the coursework which I completed during the second semester of my freshman year at Rensselaer Polytechnic Institute. The coursework was divided into a total of 14 labs and 10 different homeworks all of which were completed in C++. 
